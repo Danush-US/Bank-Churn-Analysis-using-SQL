@@ -43,6 +43,61 @@ Key steps:
 
 ---
 
+
+
+## Visuals  
+
+### 1. KPI Overview  
+Shows Total Customers, Average Age, Credit Limit, and Utilization Ratio.  
+![KPI Overview](https://github.com/Danush-US/Bank-Churn-Analysis-using-SQL/blob/main/kpi_overview.png)  
+
+---
+
+### 2. Customer Distribution by Card Category  
+Number of customers in each Card Category.  
+![Card Distribution](https://github.com/Danush-US/Bank-Churn-Analysis-using-SQL/blob/main/card_distribution.png)  
+
+---
+
+### 3. Average Balance by Income Level  
+Average balance grouped by Income Levels.  
+![Income vs Balance](https://github.com/Danush-US/Bank-Churn-Analysis-using-SQL/blob/main/income_balance.png)  
+
+---
+
+### 4. Customers by Marital Status  
+Distribution of customers by Marital Status.  
+![Marital Status](https://github.com/Danush-US/Bank-Churn-Analysis-using-SQL/blob/main/marital_status.png)  
+
+---
+
+### 5. Age Group Segmentation  
+Segmentation of customers by Age Ranges.  
+![Age Segmentation](https://github.com/Danush-US/Bank-Churn-Analysis-using-SQL/blob/main/age_segmentation.png)  
+
+---
+
+### 6. Top 10 Customers by Utilization Ratio  
+High-risk customers with the highest utilization ratio.  
+![Top 10 Utilization](https://github.com/Danush-US/Bank-Churn-Analysis-using-SQL/blob/main/top10_utilization.png)  
+
+---
+
+### 7. VIP Customers — Tenure vs Balance  
+Customers with longest relationships and higher balances.  
+![VIP Customers](https://github.com/Danush-US/Bank-Churn-Analysis-using-SQL/blob/main/vip_customers.png)  
+
+---
+
+## Insights  
+
+- Most customers fall in the 26–45 age group.  
+- High-income groups maintain higher average balances.  
+- Customers with utilization above 80% are at higher churn risk.  
+- VIP customers have tenure longer than 53 months.  
+
+
+
 ## Conclusion  
 This project demonstrates how SQL can be applied beyond reporting to generate business-driven insights. It showcases skills in data cleaning, query optimization, KPI development, segmentation, and risk profiling, while connecting technical results with real-world banking strategies.  
   
